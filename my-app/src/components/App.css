@@ -1,0 +1,10 @@
+Form {
+	text-align: center;
+}
+.App input{
+	display: inline-block;
+	margin: 20px;
+	padding: 10px 20px;
+	border: 2px solid gray;
+	background-color: #fff;
+}
